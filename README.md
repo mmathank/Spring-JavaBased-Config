@@ -1,4 +1,4 @@
-# Spring-XmlBased-Config
+# Spring-JavaBased-Config
 Below Mentioned Lib's needs to be included in class path
   1. spring-core-5.2.4.RELEASE.jar
   2. spring-core-5.2.4.RELEASE.jar
